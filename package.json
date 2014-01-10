@@ -1,0 +1,26 @@
+{
+  "name": "connect-file-exists-or-rewrite",
+  "version": "0.1.0",
+  "description": "Connect middleware that checks if a file exists at the location specified through the URL path, and if not rewrites the URL to e.g. '/'.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/philippbosch/connect-file-exists-or-rewrite.git"
+  },
+  "keywords": [
+    "connect",
+    "middleware",
+    "file",
+    "static",
+    "rewrite"
+  ],
+  "author": "Philipp Bosch <hello@pb.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/philippbosch/connect-file-exists-or-rewrite/issues"
+  },
+  "homepage": "https://github.com/philippbosch/connect-file-exists-or-rewrite"
+}
